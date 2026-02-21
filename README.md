@@ -37,3 +37,5 @@
   </a>
     
 </p>
+
+<img src="https://count.getloli.com/@tmp-000000?theme=moebooru" alt="tmp-000000" />
