@@ -39,4 +39,4 @@
 </p>
 
 ## Profile View Count
-![kayxue](https://count.getloli.com/@tmp-000000?theme=moebooru)
+![tmp-000000](https://count.getloli.com/@tmp-000000?theme=moebooru)
